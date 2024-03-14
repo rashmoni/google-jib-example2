@@ -55,7 +55,7 @@
 						</platforms>
 					</from>
 					<to>
-						<image>registry.hub.docker.com/rashudey/google-jib-image-example2</image>
+						<image>Acr9851.azurecr.io/google-jib-image-example2</image>
 					</to>
 				</configuration>
 			</plugin>
