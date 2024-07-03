@@ -11,7 +11,7 @@ public class GoogleJibDemoApplication {
 
 	@GetMapping("/welcome")
 	public String Welcome(){
-		return "Welcome to jib";
+		return "Welcome to jib updated";
 	}
 
 	public static void main(String[] args) {
